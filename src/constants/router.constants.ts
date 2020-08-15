@@ -1,0 +1,18 @@
+export const RouterConstants = {
+  IntroScreenOne: 'IntroScreenOne',
+  WelcomeScreen: 'WelcomeScreen',
+  Signin: 'Signin',
+  Signup: 'Signup',
+  ForgotPassword: 'ForgotPassword',
+  Home: 'Home',
+  Dashboard: 'Dashboard',
+  Matches: 'Matches',
+  Account: 'Account',
+  Notifications: 'Notifications',
+  SocialSignin: 'SocialSignin',
+  DetailedCards: 'DetailedCards',
+  OrganizeContest: 'OrganizeContest',
+  ContestDetails: 'ContestDetails',
+  PrizeLeaderboard: 'PrizeLeaderboard',
+  UserProfile: 'UserProfile',
+};

@@ -1,0 +1,28 @@
+{
+  "strict": {
+    "text-font-family": "Roboto-Regular",
+    "border-radius": 5,
+    "text-heading-6-font-family": "Roboto-Medium",
+    "text-heading-5-font-family": "Roboto-Medium",
+    "text-heading-4-font-family": "Roboto-Bold",
+    "text-heading-3-font-family": "Roboto-Bold",
+    "text-heading-2-font-family": "Roboto-Bold",
+    "text-heading-1-font-family": "Roboto-Bold"
+  },
+  "components": {
+    "Button": {
+      "meta": {},
+      "appearances": {
+        "filled": {
+          "variantGroups": {
+            "size": {
+              "giant": {
+                "textFontWeight": "300"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
